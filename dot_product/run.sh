@@ -17,6 +17,11 @@ python3 --version
 python3 dot_product_np.py
 echo
 echo "============================================"
+echo "Pypy version"
+pypy3 --version
+pypy3 dot_product.py
+echo
+echo "============================================"
 echo "Node version"
 node --version
 node dot_product.js
